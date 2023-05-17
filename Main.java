@@ -7,6 +7,7 @@ class Main {
 
         // mhs.setNama("Melna Syara W");
         // mhs.setNim("G.111.19.0004");
+        
         // mhs.setSmt(8);
 
         System.out.println("Nama Mhs : " + mhs.getNama());
